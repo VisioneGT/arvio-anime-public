@@ -1,0 +1,571 @@
+[
+  {
+    "id": "anime-v2-01-start-here",
+    "title": "01 • Start Here",
+    "folders": [
+      {
+        "id": "anime-v2-01-start-here-trending-anime",
+        "title": "Trending Anime",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "kuroko/trending-anime"
+          },
+          {
+            "provider": "mdblist",
+            "slug": "orangebyte/trending-anime"
+          }
+        ],
+        "description": "Popular anime being discussed now."
+      },
+      {
+        "id": "anime-v2-01-start-here-currently-airing",
+        "title": "Currently Airing",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "moafew21/latest-anime"
+          }
+        ],
+        "description": "Anime currently airing or recently updated."
+      },
+      {
+        "id": "anime-v2-01-start-here-latest-anime",
+        "title": "Latest Anime",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "iamscallywag/latest-anime"
+          },
+          {
+            "provider": "mdblist",
+            "slug": "nobnobz/discover-latest-anime"
+          }
+        ],
+        "description": "Recent and upcoming anime from public lists."
+      },
+      {
+        "id": "anime-v2-01-start-here-this-anime-season",
+        "title": "This Anime Season",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "avolix/current-seasonal-anime"
+          },
+          {
+            "provider": "mdblist",
+            "slug": "skack97/current-anime-season"
+          }
+        ],
+        "description": "Current seasonal anime catalogues."
+      },
+      {
+        "id": "anime-v2-01-start-here-upcoming-anime",
+        "title": "Upcoming Anime",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "axee4/anime-upcoming"
+          }
+        ],
+        "description": "Planned anime series from a curated list."
+      },
+      {
+        "id": "anime-v2-01-start-here-top-10-this-week",
+        "title": "Top 10 This Week",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "kidou14/top-10-anime-of-the-week"
+          }
+        ],
+        "description": "Weekly anime chart."
+      },
+      {
+        "id": "anime-v2-01-start-here-most-watched",
+        "title": "Most Watched",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "linvo/top-of-all-time-anime-series"
+          },
+          {
+            "provider": "mdblist",
+            "slug": "linvo/top-of-all-time-anime-movies"
+          }
+        ],
+        "description": "Most watched anime series and films."
+      }
+    ]
+  },
+  {
+    "id": "anime-v2-02-anime-subgenres",
+    "title": "02 • Anime Subgenres",
+    "folders": [
+      {
+        "id": "anime-v2-02-anime-subgenres-isekai",
+        "title": "Isekai",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "sylgretor/list-of-all-anime-series-tagged-isekai"
+          },
+          {
+            "provider": "mdblist",
+            "slug": "axee4/anime-isekai"
+          }
+        ],
+        "description": "Other-world, reincarnation and transported-world anime."
+      },
+      {
+        "id": "anime-v2-02-anime-subgenres-shounen",
+        "title": "Shounen",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "axee4/anime-hounen"
+          }
+        ],
+        "description": "Shounen-targeted anime curated by the list creator."
+      },
+      {
+        "id": "anime-v2-02-anime-subgenres-seinen",
+        "title": "Seinen",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "axee4/anime-seinen"
+          }
+        ],
+        "description": "Seinen-targeted anime curated by the list creator."
+      },
+      {
+        "id": "anime-v2-02-anime-subgenres-shoujo-slice-of-life",
+        "title": "Shoujo + Slice of Life",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "v4v4i/slice-of-life-mostly-shojo"
+          }
+        ],
+        "description": "Shoujo-leaning slice-of-life selection, not all shoujo anime."
+      },
+      {
+        "id": "anime-v2-02-anime-subgenres-mecha",
+        "title": "Mecha",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "mwillacey71/mecha-anime-6d0073cd-e875-499e-bbf1-3196005cc323"
+          }
+        ],
+        "description": "Robot and mecha anime, series and films."
+      },
+      {
+        "id": "anime-v2-02-anime-subgenres-yuri-girls-love",
+        "title": "Yuri / Girls Love",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "yuyach/yuri"
+          }
+        ],
+        "description": "Public list of yuri titles."
+      },
+      {
+        "id": "anime-v2-02-anime-subgenres-ecchi",
+        "title": "Ecchi",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "saab51/ecchi-anime-a-voir"
+          }
+        ],
+        "description": "Curated ecchi anime."
+      }
+    ]
+  },
+  {
+    "id": "anime-v2-03-anime-studios",
+    "title": "03 • Anime Studios",
+    "folders": [
+      {
+        "id": "anime-v2-03-anime-studios-a-1-pictures",
+        "title": "A-1 Pictures",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "jarvis-15468249/a-1-pictures-shows"
+          }
+        ]
+      },
+      {
+        "id": "anime-v2-03-anime-studios-studio-pierrot",
+        "title": "Studio Pierrot",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "chrismilton605-gmail-com/pierrot-animation-shows"
+          }
+        ]
+      },
+      {
+        "id": "anime-v2-03-anime-studios-madhouse",
+        "title": "Madhouse",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "chrismilton605-gmail-com/madhouse-shows"
+          }
+        ]
+      },
+      {
+        "id": "anime-v2-03-anime-studios-mappa",
+        "title": "MAPPA",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "chrismilton605-gmail-com/mappa-shows"
+          }
+        ]
+      },
+      {
+        "id": "anime-v2-03-anime-studios-production-i-g",
+        "title": "Production I.G",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "chrismilton605-gmail-com/production-ig-shows"
+          }
+        ]
+      },
+      {
+        "id": "anime-v2-03-anime-studios-kyoto-animation",
+        "title": "Kyoto Animation",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "xpertplayer123/kyoto-animation-shows"
+          }
+        ]
+      },
+      {
+        "id": "anime-v2-03-anime-studios-ufotable",
+        "title": "Ufotable",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "xpertplayer123/ufotable-shows"
+          }
+        ]
+      },
+      {
+        "id": "anime-v2-03-anime-studios-toei-animation",
+        "title": "Toei Animation",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "xpertplayer123/toei-animation-shows"
+          }
+        ]
+      },
+      {
+        "id": "anime-v2-03-anime-studios-bones",
+        "title": "Bones",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "xpert192938/bones-shows"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "anime-v2-04-popularity-ratings",
+    "title": "04 • Popularity & Ratings",
+    "folders": [
+      {
+        "id": "anime-v2-04-popularity-ratings-top-rated-anime",
+        "title": "Top Rated Anime",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "andrewkennedy/top-rated-anime"
+          }
+        ],
+        "description": "Highly-rated titles; not a Drama-only list."
+      },
+      {
+        "id": "anime-v2-04-popularity-ratings-popular-anime-series",
+        "title": "Popular Anime Series",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "linvo/anime-series-popular"
+          }
+        ],
+        "description": "Anime shows popular on MDBList."
+      },
+      {
+        "id": "anime-v2-04-popularity-ratings-popular-anime-movies",
+        "title": "Popular Anime Movies",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "linvo/anime-movies-popular"
+          }
+        ],
+        "description": "Anime films popular on MDBList."
+      },
+      {
+        "id": "anime-v2-04-popularity-ratings-best-anime-series",
+        "title": "Best Anime Series",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "solo_streaming/best-anime-shows-mal-710-ja65sonhz1"
+          }
+        ],
+        "description": "A curated high-rated anime TV list."
+      },
+      {
+        "id": "anime-v2-04-popularity-ratings-anime-2025",
+        "title": "Anime 2025+",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "nexor/mdblist-anime-strict-filter"
+          }
+        ],
+        "description": "Newer anime with a strict score threshold; smaller list."
+      }
+    ]
+  },
+  {
+    "id": "anime-v2-05-new-seasonal",
+    "title": "05 • New & Seasonal",
+    "folders": [
+      {
+        "id": "anime-v2-05-new-seasonal-seasonal-anime",
+        "title": "Seasonal Anime",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "imalpha11/anime-seasonal"
+          }
+        ],
+        "description": "Broad seasonal anime picks."
+      },
+      {
+        "id": "anime-v2-05-new-seasonal-current-seasonal",
+        "title": "Current Seasonal",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "avolix/current-seasonal-anime"
+          }
+        ],
+        "description": "Anime in the current seasonal rotation."
+      },
+      {
+        "id": "anime-v2-05-new-seasonal-recent-anime",
+        "title": "Recent Anime",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "21pixels/anime-recent"
+          }
+        ],
+        "description": "Ongoing, returning and upcoming anime in recent years."
+      },
+      {
+        "id": "anime-v2-05-new-seasonal-latest-releases",
+        "title": "Latest Releases",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "latestanimereleaselist/latest-anime-releases"
+          }
+        ],
+        "description": "Latest anime releases; not a Horror-specific list."
+      },
+      {
+        "id": "anime-v2-05-new-seasonal-completed-anime",
+        "title": "Completed Anime",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "lxredhawk1/completed-anime"
+          }
+        ],
+        "description": "Community completed-anime selection; not a universal finished-airing filter."
+      }
+    ]
+  },
+  {
+    "id": "anime-v2-06-decades",
+    "title": "06 • Decades",
+    "folders": [
+      {
+        "id": "anime-v2-06-decades-1960s",
+        "title": "1960s",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "pheerlessliter/anime-1960s"
+          }
+        ]
+      },
+      {
+        "id": "anime-v2-06-decades-1970s",
+        "title": "1970s",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "pheerlessliter/anime-1970s"
+          }
+        ]
+      },
+      {
+        "id": "anime-v2-06-decades-1980s",
+        "title": "1980s",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "pheerlessliter/anime-1980s"
+          }
+        ]
+      },
+      {
+        "id": "anime-v2-06-decades-1990s",
+        "title": "1990s",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "pheerlessliter/anime-1990s"
+          }
+        ]
+      },
+      {
+        "id": "anime-v2-06-decades-2000s",
+        "title": "2000s",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "pheerlessliter/anime-2000s"
+          }
+        ]
+      },
+      {
+        "id": "anime-v2-06-decades-2010s",
+        "title": "2010s",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "pheerlessliter/anime-2010s"
+          }
+        ]
+      },
+      {
+        "id": "anime-v2-06-decades-2020s",
+        "title": "2020s",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "pheerlessliter/anime-2020s"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "anime-v2-07-language-services",
+    "title": "07 • Language & Services",
+    "folders": [
+      {
+        "id": "anime-v2-07-language-services-english-dubbed",
+        "title": "English Dubbed",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "sysops/anime-dubbed-only"
+          }
+        ],
+        "description": "Curated English-dubbed titles; availability can change."
+      },
+      {
+        "id": "anime-v2-07-language-services-crunchyroll-anime",
+        "title": "Crunchyroll Anime",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "jukebox8786/crunchyroll-anime"
+          }
+        ],
+        "description": "Community-maintained Crunchyroll anime list."
+      },
+      {
+        "id": "anime-v2-07-language-services-anime-digital-network",
+        "title": "Anime Digital Network",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "jukebox8786/anime-digital-network-anime"
+          }
+        ],
+        "description": "Anime Digital Network catalogue."
+      }
+    ]
+  },
+  {
+    "id": "anime-v2-08-anime-donghua",
+    "title": "08 • Anime & Donghua",
+    "folders": [
+      {
+        "id": "anime-v2-08-anime-donghua-donghua-series",
+        "title": "Donghua Series",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "alindoggmail/donghua-alin"
+          }
+        ],
+        "description": "Chinese animated series."
+      },
+      {
+        "id": "anime-v2-08-anime-donghua-donghua-movies",
+        "title": "Donghua Movies",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "alindoggmail/donghua-movies"
+          }
+        ],
+        "description": "Chinese animated films."
+      },
+      {
+        "id": "anime-v2-08-anime-donghua-classic-anime-movies",
+        "title": "Classic Anime Movies",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "linvo/anime-movies-popular"
+          }
+        ],
+        "description": "Popular anime films of all decades."
+      },
+      {
+        "id": "anime-v2-08-anime-donghua-classic-anime-shows",
+        "title": "Classic Anime Shows",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "linvo/anime-series-popular"
+          }
+        ],
+        "description": "Popular anime series of all decades."
+      }
+    ]
+  }
+]

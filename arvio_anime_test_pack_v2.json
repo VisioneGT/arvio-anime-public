@@ -1,0 +1,16 @@
+{
+  "id": "visionegt-anime-test-v2",
+  "name": "Anime Test - Isekai & Trending",
+  "description": "Anime genre, seasonal, studio and ranking catalogs. Public MDBList catalog references; no playback sources.",
+  "version": "2.0.0",
+  "catalogs": [
+    {
+      "name": "Isekai [sylgretor / list-of-all-anime-series-tagged-isekai]",
+      "url": "https://mdblist.com/lists/sylgretor/list-of-all-anime-series-tagged-isekai"
+    },
+    {
+      "name": "Trending Anime [kuroko / trending-anime]",
+      "url": "https://mdblist.com/lists/kuroko/trending-anime"
+    }
+  ]
+}

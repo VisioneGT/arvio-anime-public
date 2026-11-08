@@ -1,0 +1,72 @@
+{
+  "id": "visionegt-anime-starter-v2",
+  "name": "Anime Discovery - Starter Genres (16)",
+  "description": "Anime genre, seasonal, studio and ranking catalogs. Public MDBList catalog references; no playback sources.",
+  "version": "2.0.0",
+  "catalogs": [
+    {
+      "name": "Trending Anime [kuroko / trending-anime]",
+      "url": "https://mdblist.com/lists/kuroko/trending-anime"
+    },
+    {
+      "name": "Currently Airing",
+      "url": "https://mdblist.com/lists/moafew21/latest-anime"
+    },
+    {
+      "name": "Latest Anime [iamscallywag / latest-anime]",
+      "url": "https://mdblist.com/lists/iamscallywag/latest-anime"
+    },
+    {
+      "name": "This Anime Season [avolix / current-seasonal-anime]",
+      "url": "https://mdblist.com/lists/avolix/current-seasonal-anime"
+    },
+    {
+      "name": "Upcoming Anime",
+      "url": "https://mdblist.com/lists/axee4/anime-upcoming"
+    },
+    {
+      "name": "Top 10 This Week",
+      "url": "https://mdblist.com/lists/kidou14/top-10-anime-of-the-week"
+    },
+    {
+      "name": "Isekai [sylgretor / list-of-all-anime-series-tagged-isekai]",
+      "url": "https://mdblist.com/lists/sylgretor/list-of-all-anime-series-tagged-isekai"
+    },
+    {
+      "name": "Isekai [axee4 / anime-isekai]",
+      "url": "https://mdblist.com/lists/axee4/anime-isekai"
+    },
+    {
+      "name": "Shounen",
+      "url": "https://mdblist.com/lists/axee4/anime-hounen"
+    },
+    {
+      "name": "Seinen",
+      "url": "https://mdblist.com/lists/axee4/anime-seinen"
+    },
+    {
+      "name": "Shoujo + Slice of Life",
+      "url": "https://mdblist.com/lists/v4v4i/slice-of-life-mostly-shojo"
+    },
+    {
+      "name": "Mecha",
+      "url": "https://mdblist.com/lists/mwillacey71/mecha-anime-6d0073cd-e875-499e-bbf1-3196005cc323"
+    },
+    {
+      "name": "Yuri / Girls Love",
+      "url": "https://mdblist.com/lists/yuyach/yuri"
+    },
+    {
+      "name": "Ecchi",
+      "url": "https://mdblist.com/lists/saab51/ecchi-anime-a-voir"
+    },
+    {
+      "name": "Top Rated Anime",
+      "url": "https://mdblist.com/lists/andrewkennedy/top-rated-anime"
+    },
+    {
+      "name": "English Dubbed",
+      "url": "https://mdblist.com/lists/sysops/anime-dubbed-only"
+    }
+  ]
+}
