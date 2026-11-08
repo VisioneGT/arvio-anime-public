@@ -1,0 +1,410 @@
+[
+  {
+    "id": "arvio-anime-discover",
+    "title": "Discover 🔍✨",
+    "folders": [
+      {
+        "id": "arvio-anime-discover-latest-release",
+        "title": "Latest Release",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "iamscallywag/latest-anime"
+          }
+        ]
+      },
+      {
+        "id": "arvio-anime-discover-popular",
+        "title": "Popular",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "linvo/anime-movies-popular"
+          },
+          {
+            "provider": "mdblist",
+            "slug": "linvo/anime-series-popular"
+          }
+        ]
+      },
+      {
+        "id": "arvio-anime-discover-dubbed-only",
+        "title": "Dubbed Only",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "sysops/anime-dubbed-only"
+          }
+        ]
+      },
+      {
+        "id": "arvio-anime-discover-most-watched",
+        "title": "Most Watched",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "linvo/top-of-all-time-anime-movies"
+          },
+          {
+            "provider": "mdblist",
+            "slug": "linvo/top-of-all-time-anime-series"
+          }
+        ]
+      },
+      {
+        "id": "arvio-anime-discover-upcoming",
+        "title": "Upcoming",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "axee4/anime-upcoming"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "arvio-anime-studios",
+    "title": "Studios",
+    "folders": [
+      {
+        "id": "arvio-anime-studios-a-1-pictures",
+        "title": "A-1 Pictures",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "jarvis-15468249/a-1-pictures-shows"
+          }
+        ]
+      },
+      {
+        "id": "arvio-anime-studios-mad-house",
+        "title": "Mad House",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "chrismilton605-gmail-com/madhouse-shows"
+          }
+        ]
+      },
+      {
+        "id": "arvio-anime-studios-studio-pierrot",
+        "title": "Studio Pierrot",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "chrismilton605-gmail-com/pierrot-animation-shows"
+          }
+        ]
+      },
+      {
+        "id": "arvio-anime-studios-ufotable-studio",
+        "title": "Ufotable Studio",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "xpertplayer123/ufotable-shows"
+          }
+        ]
+      },
+      {
+        "id": "arvio-anime-studios-production-i-g",
+        "title": "Production I.G",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "chrismilton605-gmail-com/production-ig-shows"
+          }
+        ]
+      },
+      {
+        "id": "arvio-anime-studios-kyoto-animation",
+        "title": "Kyoto Animation",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "xpertplayer123/kyoto-animation-shows"
+          }
+        ]
+      },
+      {
+        "id": "arvio-anime-studios-bones-studio",
+        "title": "Bones Studio",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "xpert192938/bones-shows"
+          }
+        ]
+      },
+      {
+        "id": "arvio-anime-studios-mappa-studio",
+        "title": "Mappa Studio",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "chrismilton605-gmail-com/mappa-shows"
+          }
+        ]
+      },
+      {
+        "id": "arvio-anime-studios-toei-animation-studio",
+        "title": "Toei Animation Studio",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "xpertplayer123/toei-animation-shows"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "arvio-anime-genre",
+    "title": "Genre",
+    "folders": [
+      {
+        "id": "arvio-anime-genre-action",
+        "title": "Action",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "denes97/anime-tv-list-7f3ee625-b297-4626-bfaa-db2ee2dbbc9f"
+          }
+        ],
+        "description": "The original list is named anime-tv-list, not explicitly Action."
+      },
+      {
+        "id": "arvio-anime-genre-adventure",
+        "title": "Adventure",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "denes97/anime-tv-list"
+          }
+        ],
+        "description": "The original list is named anime-tv-list, not explicitly Adventure."
+      },
+      {
+        "id": "arvio-anime-genre-comedy",
+        "title": "Comedy",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "breon64/popular-anime"
+          }
+        ],
+        "description": "Original creator linked this to a general popular-anime list rather than a verified Comedy-only list."
+      },
+      {
+        "id": "arvio-anime-genre-drama",
+        "title": "Drama",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "andrewkennedy/top-rated-anime"
+          }
+        ],
+        "description": "Original creator linked this to a general top-rated-anime list rather than a verified Drama-only list."
+      },
+      {
+        "id": "arvio-anime-genre-horror",
+        "title": "Horror",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "latestanimereleaselist/latest-anime-releases"
+          }
+        ],
+        "description": "Original creator linked this to Latest Anime Releases rather than a Horror-only list."
+      },
+      {
+        "id": "arvio-anime-genre-shounen",
+        "title": "Shounen",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "axee4/anime-hounen"
+          }
+        ]
+      },
+      {
+        "id": "arvio-anime-genre-mecha",
+        "title": "Mecha",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "mwillacey71/mecha-anime-6d0073cd-e875-499e-bbf1-3196005cc323"
+          }
+        ]
+      },
+      {
+        "id": "arvio-anime-genre-isekai",
+        "title": "Isekai",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "sylgretor/list-of-all-anime-series-tagged-isekai"
+          }
+        ]
+      },
+      {
+        "id": "arvio-anime-genre-seinen",
+        "title": "Seinen",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "axee4/anime-seinen"
+          }
+        ]
+      },
+      {
+        "id": "arvio-anime-genre-shoujo",
+        "title": "Shoujo",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "v4v4i/slice-of-life-mostly-shojo"
+          }
+        ],
+        "description": "The original list is named slice-of-life-mostly-shojo."
+      },
+      {
+        "id": "arvio-anime-genre-donghua",
+        "title": "Donghua",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "alindoggmail/donghua-movies"
+          },
+          {
+            "provider": "mdblist",
+            "slug": "alindoggmail/donghua-alin"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "arvio-anime-seasonal-anime",
+    "title": "Seasonal Anime",
+    "folders": [
+      {
+        "id": "arvio-anime-seasonal-anime-winter",
+        "title": "Winter",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "axee4/anime-winter"
+          }
+        ]
+      },
+      {
+        "id": "arvio-anime-seasonal-anime-spring",
+        "title": "Spring",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "axee4/anime-spring-0i3k8rc5cx"
+          }
+        ]
+      },
+      {
+        "id": "arvio-anime-seasonal-anime-summer",
+        "title": "Summer",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "axee4/anime-summer"
+          }
+        ]
+      },
+      {
+        "id": "arvio-anime-seasonal-anime-fall",
+        "title": "Fall",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "axee4/anime-fall"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "arvio-anime-decades",
+    "title": "Decades",
+    "folders": [
+      {
+        "id": "arvio-anime-decades-1960s",
+        "title": "1960s",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "pheerlessliter/anime-1960s"
+          }
+        ]
+      },
+      {
+        "id": "arvio-anime-decades-1970s",
+        "title": "1970s",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "pheerlessliter/anime-1970s"
+          }
+        ]
+      },
+      {
+        "id": "arvio-anime-decades-1980s",
+        "title": "1980s",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "pheerlessliter/anime-1980s"
+          }
+        ]
+      },
+      {
+        "id": "arvio-anime-decades-1990s",
+        "title": "1990s",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "pheerlessliter/anime-1990s"
+          }
+        ]
+      },
+      {
+        "id": "arvio-anime-decades-2000s",
+        "title": "2000s",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "pheerlessliter/anime-2000s"
+          }
+        ]
+      },
+      {
+        "id": "arvio-anime-decades-2010s",
+        "title": "2010s",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "pheerlessliter/anime-2010s"
+          }
+        ]
+      },
+      {
+        "id": "arvio-anime-decades-2020s",
+        "title": "2020s",
+        "sources": [
+          {
+            "provider": "mdblist",
+            "slug": "pheerlessliter/anime-2020s"
+          }
+        ]
+      }
+    ]
+  }
+]
